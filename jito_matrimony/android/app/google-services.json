@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823224497228",
+    "firebase_url": "https://jito-62acf.firebaseio.com",
+    "project_id": "jito-62acf",
+    "storage_bucket": "jito-62acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823224497228:android:45cc09a4d0d9f2a8",
+        "android_client_info": {
+          "package_name": "com.pioneer.jito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823224497228-gr5guenhad1llifn5s4ompj7afucc6c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pioneer.jito",
+            "certificate_hash": "19ae1addacad063a4b55a83a4e7d1aca14dd0b0a"
+          }
+        },
+        {
+          "client_id": "823224497228-262fuvupspq7v3benu7bo2ku4gcrqknq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARwItewfVlRr4jt2iQ9yXiv5TQ2CNknB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823224497228-262fuvupspq7v3benu7bo2ku4gcrqknq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
